@@ -1,0 +1,1 @@
+# Little_Snitch_Corporate_Rules
