@@ -8,3 +8,7 @@ There are rule groups for both `ALLOW` and `DENY`, use as needed.
 
 ---
 Pull requests welcome
+
+![alt text][logo] - [0xbanana](https://twitter.com/0xbanana)
+
+[logo]: https://duckduckgo.com/assets/icons/thirdparty/twitter.svg "Twitter"
