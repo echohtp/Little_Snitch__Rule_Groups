@@ -1,0 +1,681 @@
+{
+    "description": " Date: 06 August 2019 17:20:18 (UTC) ,  Number of unique domains: 75 , ",
+    "name": "corporate_google.lsrules",
+    "rules": [
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "admob.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "adsense.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "adwords.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "android.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "blogger.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "blogspot.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "chromium.org"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "chrome.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "chromebook.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "cobrasearch.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "com.google"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "feedburner.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "doubleclick.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "igoogle.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "foofle.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "froogle.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googleanalytics.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "google-analytics.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googletagmanager.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlecode.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlesource.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googledrive.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlearth.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googleearth.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlemaps.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlepagecreator.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlescholar.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "gmail.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlemail.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "keyhole.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "madewithcode.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "panoramio.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "picasa.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "sketchup.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "urchin.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "waze.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "youtube.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "youtu.be"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "yt.be"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "ytimg.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "youtubeeducation.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "youtube-nocookie.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "like.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "google.org"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "google.net"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "466453.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "gooogle.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "gogle.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "ggoogle.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "gogole.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "goolge.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googel.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "duck.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlee.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googil.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlr.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googl.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "gmodules.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googleadservices.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googleapps.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googleapis.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "goo.gl"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlebot.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlecommerce.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googlesyndication.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "g.co"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "whatbrowser.org"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "localhost.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "withgoogle.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "1e100.net"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "ggpht.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "googleusercontent.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "youtubegaming.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "firehunt.com"
+        },
+        {
+            "action": "deny",
+            "creationDate": 1565452923.62,
+            "modificationDate": 1565452923.62,
+            "notes": "",
+            "owner": "me",
+            "process": "any",
+            "remote-domains": "domains.google"
+        }
+    ]
+}
