@@ -1,6 +1,6 @@
 {
-    "description": " Date: 06 August 2019 17:20:18 (UTC) ,  Number of unique domains: 1480, ",
-    "name": "corporate_facebook.lsrules",
+    "description": "Date: 15 August 2019 21:03:18 (UTC),  Number of unique domains: 1480",
+    "name": "deny_facebook.lsrules",
     "rules": [
         {
             "action": "deny",
