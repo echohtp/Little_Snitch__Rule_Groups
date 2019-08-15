@@ -1,4 +1,4 @@
-# Little Snitch Corporate Rule Groups
+# Little Snitch Rule Groups
 
 This repo provides rule groups for Little Snitch based on the community efforts located [here](https://github.com/jmdugan/blocklists).
 
